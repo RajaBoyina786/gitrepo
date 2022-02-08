@@ -1,1 +1,1 @@
-python commands script
+python commands scripted
