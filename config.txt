@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 configuration files identified
-
-=======
-configuration files changed
->>>>>>> child
